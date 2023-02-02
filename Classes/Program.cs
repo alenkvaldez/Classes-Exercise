@@ -9,7 +9,7 @@
             myCar.Model = "tlx";
             myCar.Year = 2018;
 
-            var lexus = new Car()
+            var lexus = new Car();
             {
                 Make = "lexus",
                 Model = "rx450",
